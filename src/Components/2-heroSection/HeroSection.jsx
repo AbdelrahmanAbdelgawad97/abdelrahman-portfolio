@@ -1,7 +1,7 @@
 import React from 'react'
 import './HeroSection.css'
 import Lottie from 'lottie-react'
-import webDesignerAnimation from '../../../public/animation/designer.json'
+import webDesignerAnimation from 'public/animation/designer.json'
 import { motion } from 'framer-motion'
 const HeroSection = () => {
   return (
