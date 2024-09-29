@@ -12,7 +12,7 @@ const HeroSection = () => {
            initial={{transform: "scale(0)"}}
            animate={{transform: "scale(1)"}}
            transition={{damping: 6, type: "spring", stiffness: 100}}
-           src="../../../public/1-modified.png" alt='' className='avatar'/>
+           src="public/1-modified.png" alt='' className='avatar'/>
           <span className='icon-verified_user' />
         </div>
 
